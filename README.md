@@ -1,4 +1,4 @@
-# 🧪 Toxic Comment Classification
+# 🧪 Comment Toxicity  Classification
 
 This project focuses on detecting toxic content in online comments using Natural Language Processing (NLP) and Deep Learning. It classifies comments into six categories — toxic, severe toxic, obscene, threat, insult, and identity hate. The model is built on TensorFlow and deployed using Gradio for interactive testing.
 
@@ -66,7 +66,6 @@ Online platforms struggle with moderating toxic user comments. This project buil
 - **TensorFlow / Keras**
 - **scikit-learn**
 - **pandas, NumPy**
-- **NLTK**
 - **Gradio** (for deployment)
 - **Matplotlib, Seaborn** (for visualization)
 
